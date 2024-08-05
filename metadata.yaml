@@ -1,0 +1,43 @@
+_repo: Essais-sur-la-necessite-et-les-moyens-de-plaire_74080
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Moncrif, M. de
+    aliases:
+    - Moncrif, François-Augustin Paradis de
+    - Moncrif, François Augustin Paradis de
+    - Moncrif, Francois Augustin Paradis de
+    - Moncriff, François-Augustin Paradis de
+    - De Paradis de Moncrif, François-Augustin
+    - Demoncrif, François-Augustin Paradis
+    - De Moncrif, M.
+    - Moncrife, M.
+    - Moncrif, A. Paradis de (Augustin Paradis de)
+    birthdate: 1687
+    deathdate: 1770
+    gutenberg_agent_id: '57336'
+    url: http://www.gutenberg.org/2009/agents/57336
+description: ''
+gutenberg_issued: '2024-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74080'
+language: fr
+pgterms:marc904: https://archive.org/details/essaissurlance00monc
+pgterms:marc905: 20230813065055moncrif
+pgterms:marc906: '1738'
+pgterms:marc907: CH
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/Canadian
+  Libraries)
+publication_note: '  $aGeneva :$bPellisari, $c1738.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Early works to 1800'
+- !lcsh 'Etiquette -- France -- Early works to 1800'
+- !lcc 'PQ'
+- GITenberg
+title: Essais sur la necessité et les moyens de plaire
+url: http://www.gutenberg.org/ebooks/74080
